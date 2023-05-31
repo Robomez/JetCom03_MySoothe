@@ -1,4 +1,4 @@
-![Example]/assets/images/Screenshot_20230531_181134..png
+![Example](/assets/images/Screenshot_20230531_181134..png)
 # Basic Layouts in Compose Codelab
 
 This folder contains the source code for
