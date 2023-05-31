@@ -1,4 +1,4 @@
-![Example]<img src="https://github.com/Robomez/JeeCom03_MySoothe/blob/main/Screenshot_20230531_181134.png" width=20% height=20%>
+<img src="https://github.com/Robomez/JeeCom03_MySoothe/blob/main/Screenshot_20230531_181134.png" width=30% height=30%>
 # Basic Layouts in Compose Codelab
 
 This folder contains the source code for
